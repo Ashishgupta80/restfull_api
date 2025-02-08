@@ -1,0 +1,5 @@
+1)Run npm install in the root directory.
+2) Run npx nodemon index.js
+
+Note: There is no database so values vanishes on server refresh.
+I have fixed the path for specific user but in screenshot its not fixed the api is working completely fine though.
